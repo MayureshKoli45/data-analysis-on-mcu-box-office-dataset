@@ -10,6 +10,7 @@ The Marvel Cinematic Universe (MCU) is an American media franchise and shared un
 
 
 Important Notes:
+
 ●	Because the MCU began in 2008, it will not include any Marvel films that are not part of the MCU.
 
 ●	Marvel TV series and animated series are not included.

@@ -2,6 +2,8 @@
 
 # Please Read project_description pdf to know every details of this project
 
+# All Data CSV files, Jupyter Notebook and PDF files are provided in code section.
+
 Data Analyst: Mayuresh Koli 
 Purpose: 
 The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centred on a series of superhero films produced by Marvel Studios. The MCU is expanding each year, and we know how fans wait for each movie with patience and excitement. Each MCU movie earns millions of dollars at the box office worldwide. Domestic box office will always be higher in most cases, but other than that, which country or region is more profitable for the MCU? I am conducting this data analysis to find out the answer.
